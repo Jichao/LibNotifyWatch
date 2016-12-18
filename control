@@ -1,0 +1,9 @@
+Package: com.memopot.libnotifywatch
+Name: libnotifywatch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: libnotifywatch new version.
+Maintainer: jcyangzh
+Author: limneos jcyangzh
+Section: Tweaks
